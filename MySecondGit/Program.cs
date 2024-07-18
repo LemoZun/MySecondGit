@@ -8,7 +8,7 @@
     }
     struct Monster
     {
-
+            public int hp;
     }
     struct Item
     {
@@ -21,6 +21,9 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello?");
             Item Sword;
+            Monster ork;
+            ork.hp = 100;
+
         }
     }    
 }
