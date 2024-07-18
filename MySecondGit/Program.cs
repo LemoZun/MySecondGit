@@ -9,6 +9,7 @@
     struct Monster
     {
             public int hp;
+            public int mp;
     }
     struct Item
     {
@@ -23,6 +24,8 @@
             Item Sword;
             Monster ork;
             ork.hp = 100;
+            ork.mp = 100;
+
 
         }
     }    
