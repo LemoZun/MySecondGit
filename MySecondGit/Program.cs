@@ -24,8 +24,7 @@
             Item Sword;
             Monster ork;
             ork.hp = 100;
-            ork.mp = 100;
-
+            ork.mp = 50;
 
         }
     }    
