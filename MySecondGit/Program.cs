@@ -4,7 +4,7 @@
     {
         struct Player
     {
-
+            public int hp;
     }
     struct Monster
     {
