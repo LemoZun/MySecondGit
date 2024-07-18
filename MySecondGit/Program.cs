@@ -16,4 +16,10 @@
     {
 
     }
+    struct Item
+    {
+        public int id;
+
+    }
+
 }
