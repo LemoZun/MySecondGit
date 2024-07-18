@@ -10,7 +10,8 @@
     {
             public int hp;
             public int mp;
-            public int attack;
+            public int ap;
+            public int defense;
     }
     struct Item
     {
